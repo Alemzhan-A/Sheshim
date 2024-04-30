@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e7d2be3920544e4aa5f6adb65472181, type: 3}
+  m_Name: 1 69
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: 
+  sprite: 0
+  leftQuote: 
+  rightQuote: 
+  dialogue: 
+  cardHumanLeft: 0
+  cardRobotLeft: 0
+  cardEconomyLeft: 0
+  cardEcologyLeft: 0
+  cardHumanRight: 0
+  cardRobotRight: 0
+  cardEconomyRight: 0
+  cardEcologyRight: 0
